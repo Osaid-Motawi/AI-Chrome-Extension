@@ -1,0 +1,11 @@
+.ai-suggestion {
+    position: absolute;
+    color: #b5b5b5;
+    pointer-events: none;
+    white-space: pre;
+    overflow: hidden;
+
+    z-index: 999999;
+
+    background: transparent;
+}
